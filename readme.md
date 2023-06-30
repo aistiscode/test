@@ -1,2 +1,2 @@
 # Table element
-**Uploading a small `table` element to test connection to github**
+**Uploading a stylized html `table` element to test connection to github**
